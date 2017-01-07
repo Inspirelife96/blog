@@ -4,9 +4,9 @@
 
 # Site
 title: 启发光明的博客
-subtitle: The Story of Inspire Life
+subtitle: 刀刀恒久远，一截永流传。
 description:
-author: Inspire Life
+author: 启发光明
 language: zh-Hans
 timezone:
 
@@ -69,3 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+  
+avatar: /images/avatar.jpg
