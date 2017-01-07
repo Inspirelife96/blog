@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 启发光明的博客
-subtitle: 刀刀恒久远，一截永流传。
+title: 启发光明
+subtitle: 达则兼济天下，穷则独善其身
 description:
 author: 启发光明
 language: zh-Hans
@@ -71,3 +71,15 @@ deploy:
   type:
   
 avatar: /images/avatar.jpg
+
+duoshuo_shortname: inspirelife2017
+duoshuo_share: true
+duoshuo_hotartical: true
+
+baidu_analytics: 55e79a6bacabf2e795af7e82d798b37d
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
